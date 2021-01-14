@@ -1,0 +1,57 @@
+header {
+  background-color: #fffbf0;
+  padding-bottom: 5rem;
+}
+.right-girl-img {
+  width: 80%;
+}
+/* woman jacket card section */
+.cart {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+.logo-img {
+  width: 250px;
+}
+
+.card-bg {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+.woman-card {
+  border: 0;
+  border-radius: 20px;
+}
+.card-img-sizing {
+  width: 203px;
+  height: 273px;
+}
+
+/* button */
+.btn-bg {
+  background-color: #90ab29;
+  padding: 10px 15px;
+  border: 0;
+}
+.product-price-viwe-img {
+  width: 100%;
+}
+.fit-img-sizing {
+  width: 79px;
+  height: 76px;
+}
+.colum {
+  width: 490px;
+}
+.border-radius {
+  border-radius: 20px;
+}
+.contact-us {
+  background-color: #fffbf0;
+}
+footer {
+  background-color: #aeb6bf;
+}
