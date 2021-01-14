@@ -55,3 +55,13 @@ header {
 footer {
   background-color: #aeb6bf;
 }
+@media screen and (max-width: 520px) {
+  .colum {
+    width: 390px;
+  }
+  .perfect-fit {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}
